@@ -1,0 +1,4 @@
+flask
+numpy
+pickle5  # If needed, otherwise remove
+gunicorn  # Required for production
